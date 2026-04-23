@@ -13,7 +13,7 @@ import java.util.List;
 public class BsaaApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(BowApplication.class, args);
+        SpringApplication.run(BsaaApplication.class, args);
     }
 
     @Bean
